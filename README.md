@@ -4,6 +4,7 @@
 2. Mount the `R2024a_Windows.iso`
 3. Click `Setup.exe`
 
+---
 
 1.Extract Or Mount R2024a_Windows
 
@@ -32,9 +33,10 @@ Polyspace Bug Finder Server + Polyspace Code Prover Server:
 DO Qualification Kit + IEC Certification Kit:
 `42610-52008-16202-14804`
 
-5.go in Crack copy .dll and apply it on C:\Program Files\MATLAB\R2024a\bin\win64\matlab_startup_plugins\lmgrimpl
+5. go in Crack copy .dll and apply it on C:\Program Files\MATLAB\R2024a\bin\win64\matlab_startup_plugins\lmgrimpl
 
-6.Done....
+6. Done....
 
 7. for polyspace re-run the setup.exe add the above keys too install Polyspace and replace the libmwlmgrimpl from Crack on this **path:C:\Program Files\Polyspace\R2024a\bin\win64\matlab_startup_plugins\lmgrimpl**
+   
 8. run product and point on .lic
