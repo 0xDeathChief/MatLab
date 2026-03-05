@@ -1,19 +1,11 @@
-### Installation Process and Download:
-
-1. simple extract each file and then combain all together.
-2. Mount the `R2024a_Windows.iso`
-3. Click `Setup.exe`
-
----
-
-1.Extract Or Mount R2024a_Windows
+1. Extract Or Mount R2024a_Windows
 
 2. Run setup.exe go in upper right corner in  "Advanced Options"  select setup mode  "I have a File Installation Key"
      If internet access is absent then required setup mode will be auto-selected and you do not need to select it manually
 
 3. When you will be asked to  "Enter File Installation Key"  enter
 
-Full desktop
+##### **Full desktop**
 - `21471-07182-41807-00726-32378-34241-61866-60308-44209-03650-51035-48216-24734-36781-57695-35731-64525-44540-57877-31100-06573-50736-60034-42697-39512-63953`
 
 MATLAB Parallel Server:
